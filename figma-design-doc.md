@@ -9,7 +9,6 @@
 
 ### Color Palette
 - **Primary Gradient:** Pink to Purple (`#FF69B4` → `#9B59B6`)
-- **Secondary:** Orange (`#FF8C00`)
 - **Success:** Green (`#00C853`)
 - **Background:** Light purple/pink gradient
 - **Accent:** White for buttons and input fields
@@ -236,9 +235,9 @@ Stay safe
 - 📊 Total score
 
 **Risk Indicators:**
-Two cards with 'O' symbol:
-- "represent high risk"
-- "represent high risk"
+Two cards with 'O' 'M' symbol:
+- "O-represent high risk"
+- "M-represent medium risk"
 
 **Design:** Pink to purple gradient with white action cards
 
